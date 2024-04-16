@@ -31,9 +31,27 @@ namespace CIS375Final
 
         private void reuseButton_Click(object sender, EventArgs e)
         {
+            isReusable = CheckReusable();
+
+            if (isReusable)
+            {
+                answerLabel.Text = $"{classTextBox.Text} is reusable.";
+                score = 0;
+                isReusable = false;
+            }
+            else
+            {
+                answerLabel.Text = $"{classTextBox.Text} is not reusable.";
+                score = 0;
+                isReusable = false;
+            }
+        }
+
+        public bool CheckReusable()
+        {
             if (!purposeCheck.Checked || !modularCheck.Checked || !sigCheck.Checked)
             {
-                isReusable = false;
+                return false;
             }
             else
             {
@@ -46,19 +64,10 @@ namespace CIS375Final
                 }
                 if (score >= 10)
                 {
-                    isReusable = true;
+                    return true;
                 }
+                return false;
             }
-
-            if (isReusable)
-            {
-                answerLabel.Text = $"{classTextBox.Text} is reusable.";
-            }
-            else
-            {
-                answerLabel.Text = $"{classTextBox.Text} is not reusable.";
-            }
-            score = 0;
         }
     }
 }
