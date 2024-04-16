@@ -1,0 +1,17 @@
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\CIS375Final.exe
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\CIS375Final.deps.json
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\CIS375Final.runtimeconfig.json
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\CIS375Final.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\CIS375Final.pdb
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.Form1.resources
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.csproj.GenerateResource.cache
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.AssemblyInfoInputs.cache
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.AssemblyInfo.cs
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.csproj.CoreCompileInputs.cache
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.sourcelink.json
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\refint\CIS375Final.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.pdb
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.genruntimeconfig.cache
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\ref\CIS375Final.dll
