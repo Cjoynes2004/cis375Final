@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CIS375FinalTests1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90cb0c004568cd8408f3bac36d6b124f7abaf02f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df287a02326788dc5d0d8877708c4d537bce4b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CIS375FinalTests1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CIS375FinalTests1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

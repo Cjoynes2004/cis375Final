@@ -113,18 +113,18 @@
             purposeLabel.AutoSize = true;
             purposeLabel.Location = new Point(14, 160);
             purposeLabel.Name = "purposeLabel";
-            purposeLabel.Size = new Size(310, 15);
+            purposeLabel.Size = new Size(322, 15);
             purposeLabel.TabIndex = 4;
-            purposeLabel.Text = "Is the primary purpose of the object/class clearly defined?";
+            purposeLabel.Text = "1. Is the primary purpose of the object/class clearly defined?";
             // 
             // taskLabel
             // 
             taskLabel.AutoSize = true;
             taskLabel.Location = new Point(14, 190);
             taskLabel.Name = "taskLabel";
-            taskLabel.Size = new Size(343, 15);
+            taskLabel.Size = new Size(355, 15);
             taskLabel.TabIndex = 5;
-            taskLabel.Text = "Have you identified the key tasks the application must perform?";
+            taskLabel.Text = "2. Have you identified the key tasks the application must perform?";
             // 
             // domainLabel
             // 
@@ -141,9 +141,9 @@
             functionLabel.AutoSize = true;
             functionLabel.Location = new Point(14, 218);
             functionLabel.Name = "functionLabel";
-            functionLabel.Size = new Size(376, 30);
+            functionLabel.Size = new Size(388, 30);
             functionLabel.TabIndex = 7;
-            functionLabel.Text = "Have you identified existing systems that have similar functionality to \r\nyour proposed class?";
+            functionLabel.Text = "3. Have you identified existing systems that have similar functionality to \r\nyour proposed class?";
             // 
             // repeatLabel
             // 
@@ -160,18 +160,18 @@
             multipleLabel.AutoSize = true;
             multipleLabel.Location = new Point(14, 308);
             multipleLabel.Name = "multipleLabel";
-            multipleLabel.Size = new Size(343, 15);
+            multipleLabel.Size = new Size(355, 15);
             multipleLabel.TabIndex = 9;
-            multipleLabel.Text = "Is the object/class used in multiple places throughout the code?";
+            multipleLabel.Text = "4. Is the object/class used in multiple places throughout the code?";
             // 
             // generalLabel
             // 
             generalLabel.AutoSize = true;
             generalLabel.Location = new Point(14, 333);
             generalLabel.Name = "generalLabel";
-            generalLabel.Size = new Size(356, 15);
+            generalLabel.Size = new Size(368, 15);
             generalLabel.TabIndex = 10;
-            generalLabel.Text = "Can the object/class attributes and methods be easily generalized?";
+            generalLabel.Text = "5. Can the object/class attributes and methods be easily generalized?";
             // 
             // reuseLabel
             // 
@@ -188,18 +188,18 @@
             docuLabel.AutoSize = true;
             docuLabel.Location = new Point(14, 421);
             docuLabel.Name = "docuLabel";
-            docuLabel.Size = new Size(275, 15);
+            docuLabel.Size = new Size(293, 15);
             docuLabel.TabIndex = 12;
-            docuLabel.Text = "Does the object/class have proper documentation?";
+            docuLabel.Text = "14. Does the object/class have proper documentation?";
             // 
             // planLabel
             // 
             planLabel.AutoSize = true;
             planLabel.Location = new Point(14, 447);
             planLabel.Name = "planLabel";
-            planLabel.Size = new Size(326, 15);
+            planLabel.Size = new Size(344, 15);
             planLabel.TabIndex = 13;
-            planLabel.Text = "Is there a maintenance plan for the reuse of the object/class?";
+            planLabel.Text = "15. Is there a maintenance plan for the reuse of the object/class?";
             // 
             // purposeCheck
             // 
@@ -279,63 +279,63 @@
             couplingLabel.AutoSize = true;
             couplingLabel.Location = new Point(427, 159);
             couplingLabel.Name = "couplingLabel";
-            couplingLabel.Size = new Size(224, 15);
+            couplingLabel.Size = new Size(236, 15);
             couplingLabel.TabIndex = 22;
-            couplingLabel.Text = "Does the object/class have low coupling?";
+            couplingLabel.Text = "6. Does the object/class have low coupling?";
             // 
             // cohesionLabel
             // 
             cohesionLabel.AutoSize = true;
             cohesionLabel.Location = new Point(427, 189);
             cohesionLabel.Name = "cohesionLabel";
-            cohesionLabel.Size = new Size(230, 15);
+            cohesionLabel.Size = new Size(242, 15);
             cohesionLabel.TabIndex = 23;
-            cohesionLabel.Text = "Does the object/class have high cohesion?";
+            cohesionLabel.Text = "7. Does the object/class have high cohesion?";
             // 
             // modularLabel
             // 
             modularLabel.AutoSize = true;
             modularLabel.Location = new Point(427, 218);
             modularLabel.Name = "modularLabel";
-            modularLabel.Size = new Size(236, 15);
+            modularLabel.Size = new Size(248, 15);
             modularLabel.TabIndex = 24;
-            modularLabel.Text = "Is the class modular and hides information?";
+            modularLabel.Text = "8. Is the class modular and hides information?";
             // 
             // indieLabel
             // 
             indieLabel.AutoSize = true;
             indieLabel.Location = new Point(427, 243);
             indieLabel.Name = "indieLabel";
-            indieLabel.Size = new Size(304, 15);
+            indieLabel.Size = new Size(316, 15);
             indieLabel.TabIndex = 25;
-            indieLabel.Text = "Does the object/class exercise functional independence?";
+            indieLabel.Text = "9. Does the object/class exercise functional independence?";
             // 
             // sigLabel
             // 
             sigLabel.AutoSize = true;
             sigLabel.Location = new Point(427, 293);
             sigLabel.Name = "sigLabel";
-            sigLabel.Size = new Size(334, 30);
+            sigLabel.Size = new Size(352, 30);
             sigLabel.TabIndex = 26;
-            sigLabel.Text = "Can you integrate the object/class into your program without \r\nmaking significant changes?\r\n";
+            sigLabel.Text = "11. Can you integrate the object/class into your program without \r\nmaking significant changes?\r\n";
             // 
             // integrableLabel
             // 
             integrableLabel.AutoSize = true;
             integrableLabel.Location = new Point(427, 334);
             integrableLabel.Name = "integrableLabel";
-            integrableLabel.Size = new Size(328, 15);
+            integrableLabel.Size = new Size(346, 15);
             integrableLabel.TabIndex = 27;
-            integrableLabel.Text = "Is the class easily integrable with current software interfaces? ";
+            integrableLabel.Text = "12. Is the class easily integrable with current software interfaces? ";
             // 
             // worthLabel
             // 
             worthLabel.AutoSize = true;
             worthLabel.Location = new Point(427, 360);
             worthLabel.Name = "worthLabel";
-            worthLabel.Size = new Size(346, 30);
+            worthLabel.Size = new Size(364, 30);
             worthLabel.TabIndex = 28;
-            worthLabel.Text = "Is it worthwhile (efficient in time, space, cost, or other resources)\r\nto integrate your class into your system?";
+            worthLabel.Text = "13. Is it worthwhile (efficient in time, space, cost, or other resources)\r\nto integrate your class into your system?";
             // 
             // worthCheck
             // 
@@ -415,9 +415,9 @@
             inheritanceLabel.AutoSize = true;
             inheritanceLabel.Location = new Point(427, 269);
             inheritanceLabel.Name = "inheritanceLabel";
-            inheritanceLabel.Size = new Size(220, 15);
+            inheritanceLabel.Size = new Size(238, 15);
             inheritanceLabel.TabIndex = 37;
-            inheritanceLabel.Text = "Does the object/class utilize inheritance?";
+            inheritanceLabel.Text = "10. Does the object/class utilize inheritance?";
             // 
             // inheritanceCheck
             // 
@@ -431,7 +431,8 @@
             // answerLabel
             // 
             answerLabel.AutoSize = true;
-            answerLabel.Location = new Point(741, 447);
+            answerLabel.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            answerLabel.Location = new Point(427, 447);
             answerLabel.Name = "answerLabel";
             answerLabel.Size = new Size(0, 15);
             answerLabel.TabIndex = 39;
