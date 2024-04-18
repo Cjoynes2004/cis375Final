@@ -46,7 +46,7 @@ namespace CIS375Final
                     if (!checkboxes[i].Checked)
                     {
                         answerLabel.Text += $"{i + 1}, ";
-                    }                    
+                    }
                 }
             }
             isReusable = false;
@@ -74,6 +74,16 @@ namespace CIS375Final
                 }
                 return false;
             }
+        }
+
+        private void resetButton_Click(object sender, EventArgs e)
+        {
+            foreach (var checkbox in checkboxes)
+            {
+                checkbox.Checked = false;
+            }
+            classTextBox.Text = string.Empty;
+            answerLabel.Text = string.Empty;
         }
     }
 }

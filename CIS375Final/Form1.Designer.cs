@@ -69,6 +69,7 @@
             inheritanceLabel = new Label();
             inheritanceCheck = new CheckBox();
             answerLabel = new Label();
+            resetButton = new Button();
             SuspendLayout();
             // 
             // titleLabe
@@ -437,12 +438,23 @@
             answerLabel.Size = new Size(0, 15);
             answerLabel.TabIndex = 39;
             // 
+            // resetButton
+            // 
+            resetButton.Location = new Point(660, 403);
+            resetButton.Name = "resetButton";
+            resetButton.Size = new Size(75, 23);
+            resetButton.TabIndex = 40;
+            resetButton.Text = "Reset";
+            resetButton.UseVisualStyleBackColor = true;
+            resetButton.Click += resetButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(0, 182, 213);
             ClientSize = new Size(1053, 591);
+            Controls.Add(resetButton);
             Controls.Add(answerLabel);
             Controls.Add(inheritanceCheck);
             Controls.Add(inheritanceLabel);
@@ -531,5 +543,6 @@
         private Label inheritanceLabel;
         private CheckBox inheritanceCheck;
         private Label answerLabel;
+        private Button resetButton;
     }
 }
