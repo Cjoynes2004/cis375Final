@@ -70,6 +70,7 @@
             inheritanceCheck = new CheckBox();
             answerLabel = new Label();
             resetButton = new Button();
+            helpButton = new Button();
             SuspendLayout();
             // 
             // titleLabe
@@ -448,12 +449,23 @@
             resetButton.UseVisualStyleBackColor = true;
             resetButton.Click += resetButton_Click;
             // 
+            // helpButton
+            // 
+            helpButton.Location = new Point(14, 25);
+            helpButton.Name = "helpButton";
+            helpButton.Size = new Size(75, 23);
+            helpButton.TabIndex = 41;
+            helpButton.Text = "Help";
+            helpButton.UseVisualStyleBackColor = true;
+            helpButton.Click += helpButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(0, 182, 213);
             ClientSize = new Size(1053, 591);
+            Controls.Add(helpButton);
             Controls.Add(resetButton);
             Controls.Add(answerLabel);
             Controls.Add(inheritanceCheck);
@@ -544,5 +556,6 @@
         private CheckBox inheritanceCheck;
         private Label answerLabel;
         private Button resetButton;
+        private Button helpButton;
     }
 }

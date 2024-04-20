@@ -15,3 +15,7 @@ C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\refint
 C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.pdb
 C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.genruntimeconfig.cache
 C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\ref\CIS375Final.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\bin\Debug\net8.0-windows\Microsoft.Azure.Amqp.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.csproj.AssemblyReference.cache
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.Properties.Resource1.resources
+C:\Users\cjoyn\Documents\cis375Final\CIS375Final\obj\Debug\net8.0-windows\CIS375Final.csproj.CopyComplete

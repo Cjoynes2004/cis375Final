@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hyQHs1APBhkNT1UKkAeJLtVkwt5RG6pLehVaXjXKXbYjXm7K2Bjq9UHUXrK4gLOM+dAkwsM9DmFCJQkif6r2MA==",
+  "dgSpecHash": "h3g9Ynlm+RVJqmhYLJVgKeDuhKabJ40yJoPbkj/PN2RQ36HaH/Hw70LoACXIXhPgIi4DktTN4t/F95I7bojeag==",
   "success": true,
   "projectFilePath": "C:\\Users\\cjoyn\\Documents\\cis375Final\\CIS375Final\\CIS375Final.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cjoyn\\.nuget\\packages\\microsoft.azure.amqp\\2.6.5\\microsoft.azure.amqp.2.6.5.nupkg.sha512"
+  ],
   "logs": []
 }

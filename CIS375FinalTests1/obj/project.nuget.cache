@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CtHrJT/BgGgJs4f0cMKyu400K29bKcsPdP4EkWwDQZBVsK+e6+k5Ihgzl4M/NX3VVCzaFKkQu9tjHo9PTuG2NQ==",
+  "dgSpecHash": "8WZJ9pFjwj+6pR5y7S+iCmwHQaUgh27fp4/dbqmaIcUT3auBUQa40dxc2nXPO8+Y/J88WVO7UfdwP9F9Pu0xcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\cjoyn\\Documents\\cis375Final\\CIS375FinalTests1\\CIS375FinalTests1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cjoyn\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\cjoyn\\.nuget\\packages\\microsoft.azure.amqp\\2.6.5\\microsoft.azure.amqp.2.6.5.nupkg.sha512",
     "C:\\Users\\cjoyn\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\cjoyn\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\cjoyn\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",

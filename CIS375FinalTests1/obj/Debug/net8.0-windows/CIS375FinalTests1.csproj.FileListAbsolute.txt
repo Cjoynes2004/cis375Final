@@ -116,3 +116,4 @@ C:\Users\cjoyn\Documents\cis375Final\CIS375FinalTests1\obj\Debug\net8.0-windows\
 C:\Users\cjoyn\Documents\cis375Final\CIS375FinalTests1\obj\Debug\net8.0-windows\CIS375FinalTests1.pdb
 C:\Users\cjoyn\Documents\cis375Final\CIS375FinalTests1\obj\Debug\net8.0-windows\CIS375FinalTests1.genruntimeconfig.cache
 C:\Users\cjoyn\Documents\cis375Final\CIS375FinalTests1\obj\Debug\net8.0-windows\ref\CIS375FinalTests1.dll
+C:\Users\cjoyn\Documents\cis375Final\CIS375FinalTests1\bin\Debug\net8.0-windows\Microsoft.Azure.Amqp.dll

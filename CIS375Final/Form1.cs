@@ -1,5 +1,7 @@
+using System.Diagnostics;
 using System.Drawing.Text;
 using System.Security.Cryptography.X509Certificates;
+using System.Media;
 
 namespace CIS375Final
 {
@@ -84,6 +86,21 @@ namespace CIS375Final
             }
             classTextBox.Text = string.Empty;
             answerLabel.Text = string.Empty;
+        }
+
+        private void helpButton_Click(object sender, EventArgs e)
+        {
+            byte[] pdfBytes = Properties.Resource1.usermanual;
+            string tempFilePath = Path.GetTempFileName();
+            tempFilePath = Path.ChangeExtension(tempFilePath, ".pdf");
+
+            File.WriteAllBytes(tempFilePath, pdfBytes);
+            ProcessStartInfo psi = new ProcessStartInfo
+            {
+                FileName = tempFilePath,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
         }
     }
 }
